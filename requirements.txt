@@ -1,0 +1,17 @@
+# Core LangChain libraries for agents and graphs
+langchain
+langgraph
+langchain-openai
+langchain-community
+langchain-experimental
+
+# Web UI framework
+gradio
+python-dotenv
+pydantic
+
+# Tools
+playwright
+google-search-results
+wikipedia
+requests
